@@ -10,3 +10,9 @@
 1. [Off the Convex Path](https://www.offconvex.org/)
 1. [Inference](https://www.inference.vc/)
 1. [CS/ML notes](https://tlienart.github.io/pub/csml.html)
+
+## Engineering Blogs
+1. [Netflix Engineering Blog](https://medium.com/netflix-techblog)
+1. [Dropbox Blog](https://blogs.dropbox.com/tech/)
+1. [Airbnb Engineering & Data Science](https://airbnb.io/)
+1. [Spotify Labs](https://labs.spotify.com/)
