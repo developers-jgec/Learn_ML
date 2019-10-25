@@ -21,7 +21,7 @@
 1. [FastAI: Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ## Deep Learning
-1. [CS231n Convolutional Neural Networks for Visual Recognition](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+1. [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 1. [FastAI: Practical Deep Learning for Coders](http://course.fast.ai/)
 1. [FastAI: Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 1. [FastAI: Code-First Introduction to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
