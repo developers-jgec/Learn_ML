@@ -3,6 +3,7 @@
 1. [Deep Learning Book](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 
 ## Blogs
+1. [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io/)
 1. [colah's blog](http://colah.github.io/)
 1. [Sebastian Ruder's blog](https://ruder.io/)
 1. [Short Science](https://www.shortscience.org/)
